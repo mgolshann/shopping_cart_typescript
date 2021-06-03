@@ -4,7 +4,7 @@ import { useQuery } from 'react-query';
 // Components
 import Cart from './Cart/Cart';
 import { Wrapper, StyledButton } from './App.styles';
-import Item from './Item/Item';
+import Item from './Item1/Item';
 
 // MUI Stuff
 import Drawer from '@material-ui/core/Drawer';
